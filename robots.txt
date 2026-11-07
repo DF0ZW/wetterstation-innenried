@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://df0zw.github.io/wetterstation-innenried/sitemap.xml
